@@ -40,7 +40,7 @@ const Home = () => {
             I build Web3 and frontend experiences.
           </motion.h2>
           <motion.p variants={item} className='text-lighter py-6 max-w-[700px] text-lg leading-relaxed'>
-            I’m an innovative Web3 and Frontend Developer specializing in engineering scalable MERN stack applications and secure smart contracts. Currently, I’m focused on developing interactive, component-driven web applications as a React JS Intern at <span className='text-secondary'>EmmerginFive</span>.
+            I’m an innovative Web3 and Frontend Developer specializing in engineering scalable MERN stack applications and secure smart contracts. Currently, I’m focused on developing interactive, component-driven web applications as a React JS Intern at <span className='text-secondary'>EmergingFive</span>.
           </motion.p>
           <motion.div variants={item}>
             <Link to='work' smooth={true} duration={500}>
